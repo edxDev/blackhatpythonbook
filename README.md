@@ -7,6 +7,6 @@ test
 *  pip install github3.py 
 *  python git_trojan.py
 
-之后你的本机数据将每隔一段时间上传到data/abc目录中
+之后你的本机数据将每隔一段时间上传到data/abc目录中，值得注意的是，数据经过base64编码
 
 你也可以在modules目录下新建功能脚本，脚本将被定期拉到client执行
