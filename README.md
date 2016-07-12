@@ -1,5 +1,7 @@
 # blackhatpythonbook-Chapter7
-test 
+使用github作为受控程序控制中心和数据中心
+
+ps：使用主账号存在风险，所以使用edxDev这个测试账号做测试 
 
 # Usage
 *  mv local.yaml.template local.yaml
